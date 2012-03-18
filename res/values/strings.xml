@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TestStorageActivity!</string>
+    <string name="app_name">TestStorage</string>
+    <string name="name">Please input your name:</string>
+    <string name="age">Please input your age:</string>
+    <string name="save">保存</string>
+    <string name="read">读取</string>
+
+</resources>
